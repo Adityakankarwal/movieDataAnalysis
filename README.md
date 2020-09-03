@@ -1,6 +1,8 @@
 # movieDataAnalysis
 Analysed movie Data of "IMDB"
+
 Load "CSV" data
+
 Explore data for questioning
 Found which columns are not good for data
 Clean Data
